@@ -1,11 +1,13 @@
 # Report
-Code : Secret
 
-# FOSITIF THINKING
-Jangan Banyak Tanya
+# created by Gihan Ishara 
 
 
-  
+
+
+
+
+
 pkg update && upgrade 
 
 pkg install python2 
